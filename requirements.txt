@@ -1,0 +1,6 @@
+sklearn
+pandas
+seaborn
+tqdm
+tensorboard
+Pillow
