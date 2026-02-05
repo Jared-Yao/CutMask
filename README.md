@@ -11,7 +11,6 @@ Approach
 - **GPU**: NVIDIA GeForce RTX 3090  
 - **System**: ubuntu20.04
 - **Python**: 3.8  
-- **Ultralytics**: 8.0.202  
 - **torch**: 1.11.0 
 
 Install the following requirements:
