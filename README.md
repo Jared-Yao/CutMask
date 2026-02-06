@@ -4,6 +4,18 @@ Enhanced Industrial Anomaly Detection via
 CutMask Data Augmentation: A Self-Supervised
 Approach
 ![alt text](<pic/Schematic diagram.png>)
+
+## 🔗 Associated Manuscript (The Visual Computer)
+
+This repository accompanies our manuscript currently under submission to **The Visual Computer**.
+
+## ♻️ Reproducibility & Citation
+
+The archived, citable version of this code is available on **Zenodo**: **DOI: 10.5281/zenodo.18503408**.
+
+If you use this code or the associated artifacts, please cite **(1)** the manuscript submitted to *The Visual Computer* and **(2)** the Zenodo record (**10.5281/zenodo.18503408**).
+
+
 # 1 Set Up
 ## 1.1 Experimental platform and environment
 
