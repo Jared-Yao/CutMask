@@ -5,7 +5,9 @@ CutMask Data Augmentation: A Self-Supervised
 Approach
 ![alt text](<pic/Schematic diagram.png>)
 
+## 🔗 Associated Manuscript (The Visual Computer)
 
+This repository accompanies our manuscript currently under submission to **The Visual Computer**.
 
 ## ♻️ Reproducibility & Citation
 
