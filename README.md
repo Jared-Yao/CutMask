@@ -197,12 +197,4 @@ CAFL is designed for self-supervised pretraining in anomaly detection (e.g., **2
 ProjectionNet is a feature extraction network tailored for self-supervised pretraining under CutPaste/CutMask. It adopts ResNet18 as the backbone to extract high-level semantic representations, inserts an SSPCAB attention-enhancement module on the final feature map, and then applies global pooling to obtain the embedding. A subsequent MLP projection head plus a classification layer produces logits for 2-way/3-way pretext classification. Meanwhile, the network computes an SSPCAB auxiliary regularization loss (the MSE between the enhanced feature and the original feature), which aligns with the **$\beta L_{\text{SSPCAB}}$** term in CAFL.
 
 
-```
-@article{Yang_CutMask_AnomalyDetection,
-  title  = {Enhanced Industrial Anomaly Detection via CutMask Data Augmentation: A Self-Supervised Approach},
-  author = {Yang, Le and Yao, Dingjian and Yang, Wenhan},
-  journal={The Visual Computer},
-  year={2026}
-}
 
-```
